@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/adote-um-amigo/static/css/main.980bcefd.css",
-    "main.js": "/adote-um-amigo/static/js/main.09933fd4.js",
+    "main.js": "/adote-um-amigo/static/js/main.f960ada1.js",
     "static/media/background.jpg": "/adote-um-amigo/static/media/background.5215ef26b0d95f512404.jpg",
     "index.html": "/adote-um-amigo/index.html",
     "main.980bcefd.css.map": "/adote-um-amigo/static/css/main.980bcefd.css.map",
-    "main.09933fd4.js.map": "/adote-um-amigo/static/js/main.09933fd4.js.map"
+    "main.f960ada1.js.map": "/adote-um-amigo/static/js/main.f960ada1.js.map"
   },
   "entrypoints": [
     "static/css/main.980bcefd.css",
-    "static/js/main.09933fd4.js"
+    "static/js/main.f960ada1.js"
   ]
 }
