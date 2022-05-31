@@ -1,0 +1,29 @@
+.navbar {
+    background: var(--color-primary);
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+    left: 0;
+    margin-top: 2rem;
+    padding: 2rem 0;
+}
+.navbar a {
+    color: #fff;
+}
+
+@media screen and (max-width: 600px) {
+    .navbar {
+        background: var(--color-primary);
+        position: absolute;
+        top: 0;
+        z-index: 1000;
+        width: 100%;
+        left: 0;
+        margin-top: 0.5rem;
+        padding: 0.5rem 0;
+    }
+    .navbar a {
+        color: #000;
+    }
+  }

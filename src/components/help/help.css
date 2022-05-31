@@ -1,0 +1,14 @@
+.help-container {
+    padding: 10rem 0;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+@media screen and (max-width: 1024px) {
+    .help-container {
+        padding: 0 0 5rem 0;
+    }
+
+  }

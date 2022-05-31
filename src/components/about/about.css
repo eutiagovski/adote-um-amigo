@@ -1,0 +1,46 @@
+#about {
+    background-color: var(--color-secondary);
+}
+.about-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.about-dog-icon {
+    width: 300px;
+    padding: 1rem 0;
+
+}
+.about-dog-icon-sm {
+    width: 250px;
+}
+.about-dog-icon svg {
+    width: 100%;
+    height: 100%;
+}
+.about-dog-icon-sm svg {
+    width: 100%;
+    height: 100%;
+}
+.about-items {
+    display: flex;
+    justify-content: space-around;
+    padding: 8rem 0;
+    width: 100%;
+    text-align: center;
+}
+
+@media screen and (max-width: 1024px) {
+    .about-items {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .about-section {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+  }
